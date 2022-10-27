@@ -1,0 +1,44 @@
+form{
+    color: antiquewhite;
+    text-align: center;
+    margin: 100px;
+    border: 10px solid black;
+    padding: 5px;
+    max-width: 250px;
+    height: fit-content;
+    background-color: blueviolet;
+    box-sizing: initial;
+    border-radius: 50px;
+
+
+}
+
+select{
+    border-radius: 12px;
+    padding: 12px;
+}
+
+input{
+    border-radius: 12px;
+    padding: 12px;
+    margin: 20px;
+}
+
+#text{
+    display: flex;
+    width: 45%;
+    justify-content: space-between;
+    font-size: 14px;
+    margin: auto;
+}
+
+#pp{       
+    margin: 0 10px;
+}
+
+.display{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin: auto;
+}
